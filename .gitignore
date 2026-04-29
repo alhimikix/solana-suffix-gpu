@@ -1,0 +1,31 @@
+# Build artifacts
+*.exe
+*.obj
+*.lib
+*.exp
+*.pdb
+*.cubin
+*.fatbin
+*.ptx
+
+# Results — contain private keys, never commit
+*_results.csv
+*.json
+
+# IDE
+.idea/
+.vscode/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
+
+# Release packaging output
+release/
+*.zip
+*.tar.gz
