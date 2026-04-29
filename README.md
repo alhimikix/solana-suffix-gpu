@@ -68,6 +68,13 @@ CSV format: `public_key,private_key` (both base58). The file `<suffix>_results.c
 
 Allowed suffix characters: base58 alphabet (`123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz`). Note: `0`, `O`, `I`, `l` are excluded by base58 — using them in a suffix produces an error.
 
+## Video
+
+
+https://github.com/user-attachments/assets/4febabee-5b8f-4d1f-bbed-f29c04d047f9
+
+
+
 ## Importing keys
 
 The `private_key` column is a 64-byte base58 string in Phantom/Solflare format:
